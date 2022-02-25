@@ -1,8 +1,6 @@
 # hand_writting_recognition_project.
-Section O : Things to Know
-Understand how to call in or import Keras-Based mathematical layers into your colab environment
-Spend time on how a neural network is built and the logic to implement efficient and Optimal Training Networks for image classification
-Explore the official documentation about the MNIST Dataset
+
+Deep Neural Network with Keras for MNIST handwritten classification and recognition
 
 ## Section D : Load the data in
 
